@@ -1,2 +1,2 @@
 # news
-App de prueba 
+App de React Native,navegacion,diseño.
